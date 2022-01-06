@@ -28,13 +28,13 @@ Here are some ideas to get you started:
 * Español : 6 / 10
 ---
 # Click to see my efforts :
-### *Software*
+### *Computer science*
 * [Understanding and implementing data structure](https://github.com/vacu9708/Data-structure)
 * [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
 ---
 ### *Projects I have worked on*
 <details><summary>Details</summary>
-hello
+* Dodge pieces of poop (<img src="https://img.shields.io/badge/-C++-39457E?style=flat&logo=C++"/>
 </details>
 
 ---
