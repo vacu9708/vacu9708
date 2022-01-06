@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 * [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
 ---
 ### *Projects I have worked on*
-<details><div markdown="1"><summary>Details</summary>
+<details><summary><div markdown="1">Details</summary>
 * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
 </details>
 
