@@ -36,9 +36,11 @@ Here are some ideas to get you started:
 <details><summary>Details</summary>
 hello
 </details>
+
 ---
 ### *Mathematics*
 * [Mathematics](https://github.com/vacu9708/Mathematics)
+
 ---
 ### *Electrical engineering*
 * [Electrical engineering](https://github.com/vacu9708/Electrical-engineering)
