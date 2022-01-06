@@ -18,14 +18,19 @@ Here are some ideas to get you started:
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Youngsik's%20efforts&fontSize=90)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)
 
+## Introduction
+~~~
+Nice to meet you. I'm looking forward to being a web developer who can take advantage of machine learning.
+~~~
+
 ## 👨‍🎓*Education*
 >Incheon National University, Songdo Campus<br/>
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
 
 ## *Language skills*
-* **Korean** : 10 / 10
+* **Korean(한국어)** : 10 / 10
 * **English** : 8 / 10
-* **Español** : 6 / 10
+* **Spanish(Español)** : 6 / 10
 
 # Click to see my efforts :
 ## *Computer science*
