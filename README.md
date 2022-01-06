@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 ### Education<br/>
 >Incheon National University, Songdo Campus<br/>
->Bachelor's Degree, Dept. of Embedded Systems Engineering <img src="https://user-images.githubusercontent.com/67142421/148340658-890655ee-3479-4d68-b681-8becb71b84fc.jpg" width="200" height="200"/> <br/> 
+>Bachelor's Degree, Dept. of Embedded Systems Engineering<br/>  <img src="https://user-images.githubusercontent.com/67142421/148340658-890655ee-3479-4d68-b681-8becb71b84fc.jpg" width="200" height="200"/>
