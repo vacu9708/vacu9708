@@ -37,6 +37,7 @@ Here are some ideas to get you started:
   * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
   * [Red light, green light](https://github.com/vacu9708/https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
   * [Simon game](https://github.com/vacu9708/Simon-game) (C++, SFML)
+
 * Very simple projects using basic skills
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
