@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 # Click to see my efforts :
 ---
-### *Software
+### *Software*
  * [Understanding and implementing data structure]()
  * [Algorithm studying]()
  * [Projects I have worked on](https://github.com/vacu9708/Projects)
