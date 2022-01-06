@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 * English : 8 / 10<br/>
 * Español : 5 / 10<br/>
 
-[Click to see projects I have worked on](https://github.com/vacu9708/Projects)
+[**Click to see projects I have worked on**](https://github.com/vacu9708/Projects)
