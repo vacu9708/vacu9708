@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 
 ### Language skills<br/>
-Korean : 10 / 10<br/>
-English : 8 / 10<br/>
-Español : 5 / 10<br/>
+*Korean : 10 / 10<br/>
+*English : 8 / 10<br/>
+*Español : 5 / 10<br/>
 
 ### Education<br/>
-Incheon National University, Songdo Campus<br/>
-Bachelor's Degree, Dept. of Embedded Systems Engineering<br/>
+>Incheon National University, Songdo Campus<br/>
+>Bachelor's Degree, Dept. of Embedded Systems Engineering<br/>
