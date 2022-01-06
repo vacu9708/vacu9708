@@ -27,11 +27,18 @@ Here are some ideas to get you started:
 * English : 8 / 10<br/>
 * Español : 5 / 10
 ---
-# Click to see my efforts :
+# Click to see :
 ### *Software*
 * [Understanding and implementing data structure]()
 * [Algorithm studying]()
 * [Projects I have worked on](https://github.com/vacu9708/Projects)
 
 ### *Mathematics*
-* [Math]()
+* [Mathematics]()
+
+<details markdown="1">
+<summary>접기/펼치기</summary>
+
+<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
+
+</details>
