@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 >Incheon National University, Songdo Campus<br/>
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
 ---
-### Language skills
+## Language skills
 * Korean : 10 / 10
 * English : 8 / 10
 * Español : 6 / 10
