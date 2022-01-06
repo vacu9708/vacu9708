@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
 ---
 ### Language skills
-* 🇰🇷 Korean : 10 / 10
+* Korean : 10 / 10
 * English : 8 / 10
 * Español : 6 / 10
 ---
@@ -38,7 +38,5 @@ Here are some ideas to get you started:
 
 <details markdown="1">
 <summary>접기/펼치기</summary>
-
-<!--summary 아래 빈칸 공백 두고 내용을 적는공간-->
-
+Hello
 </details>
