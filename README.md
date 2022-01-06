@@ -38,8 +38,6 @@ hello
 </details>
 
 ---
-### *Mathematics*
+### *Fundamental knowledge*
 * [Mathematics](https://github.com/vacu9708/Mathematics)
----
-### *Electrical engineering*
 * [Electrical engineering](https://github.com/vacu9708/Electrical-engineering)
