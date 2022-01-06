@@ -33,12 +33,10 @@ Here are some ideas to get you started:
 * [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
 ---
 ### *Projects I have worked on*
-<details>
-<summary>상세 내용 확인</summary>
-<div markdown="1">
 * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
-</div>
-</details>
+* Simple toy projects
+ * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
+ * [Release your stress](https://github.com/vacu9708/Release-your-stress)
 ---
 ### *Fundamental knowledge*
 * [Mathematics](https://github.com/vacu9708/Mathematics)
