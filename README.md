@@ -31,10 +31,14 @@ Here are some ideas to get you started:
 ### *Software*
 * [Understanding and implementing data structure](https://github.com/vacu9708/Data-structure)
 * [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
-* [Projects I have worked on](https://github.com/vacu9708/Projects)
 
+### *Projects I have worked on*
+<details><summary>자세히</summary>
+
+</details>
+---
 ### *Mathematics*
 * [Mathematics](https://github.com/vacu9708/Mathematics)
-
+---
 ### *Electrical engineering*
 * [Electrical engineering](https://github.com/vacu9708/Electrical-engineering)
