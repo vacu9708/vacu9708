@@ -26,6 +26,6 @@ Here are some ideas to get you started:
 * English : 8 / 10<br/>
 * Español : 5 / 10<br/>
 
-### Education<br/>
+### Education<br/> ![imgpreview](https://user-images.githubusercontent.com/67142421/148340658-890655ee-3479-4d68-b681-8becb71b84fc.jpg)
 >Incheon National University, Songdo Campus<br/>
->Bachelor's Degree, Dept. of Embedded Systems Engineering<br/>
+>Bachelor's Degree, Dept. of Embedded Systems Engineering<br/> 
