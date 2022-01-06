@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
 ---
 ### Language skills
-* Korean : 10 / 10
+* :🇰🇷: Korean : 10 / 10
 * English : 8 / 10
 * Español : 6 / 10
 ---
