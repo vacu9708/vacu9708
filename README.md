@@ -32,11 +32,11 @@ Here are some ideas to get you started:
 * [Understanding and implementing data structure]()
 * [Algorithm studying]()
 * [Projects I have worked on](https://github.com/vacu9708/Projects)
-
-### *Mathematics*
-* [Mathematics]()
-
-<details markdown="1">
+* <details markdown="1">
 <summary>open/close</summary>
 Hello
 </details>
+
+
+### *Mathematics*
+* [Mathematics]()
