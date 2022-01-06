@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### *Software*
 * [Understanding and implementing data structure](https://github.com/vacu9708/Data-structure)
 * [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
-
+---
 ### *Projects I have worked on*
 <details><summary>Details</summary>
 hello
