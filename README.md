@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)
 ---
 ### Education
->Incheon National University, Songdo Campus
+>Incheon National University, Songdo Campus<br/>
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
 ---
 ### Language skills
