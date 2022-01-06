@@ -34,10 +34,11 @@ Here are some ideas to get you started:
 ---
 ### *Projects I have worked on*
 <details>
-  <summary>Details</summary><div markdown="1">
+<summary>상세 내용 확인</summary>
+<div markdown="1">
 * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
+</div>
 </details>
-
 ---
 ### *Fundamental knowledge*
 * [Mathematics](https://github.com/vacu9708/Mathematics)
