@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
 
-### Language skills --- <br/>
+### Language skills *** <br/>
 * Korean : 10 / 10<br/>
 * English : 8 / 10<br/>
 * Español : 5 / 10<br/>
