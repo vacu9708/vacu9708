@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ---
 ### *Projects I have worked on*
 <details><summary>Details</summary>
-* Dodge pieces of poop (<img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c++&logoColor=white">
+* Dodge pieces of poop (<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">)
 </details>
 
 ---
