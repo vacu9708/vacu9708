@@ -33,8 +33,8 @@ Here are some ideas to get you started:
 * [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
 
 ### *Projects I have worked on*
-<details><summary>자세히</summary>
-
+<details><summary>Details</summary>
+hello
 </details>
 ---
 ### *Mathematics*
