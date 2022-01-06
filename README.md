@@ -27,8 +27,10 @@ Here are some ideas to get you started:
 * English : 8 / 10<br/>
 * Español : 5 / 10<br/>
 
-### Click to see my efforts :
+# Click to see my efforts :
+* Software
 ---
-* [Projects I have worked on](https://github.com/vacu9708/Projects)
-* [Implementing data structure]()
-* [Algorithm studying]()
+ * [Understanding and implementing data structure]()
+ * [Algorithm studying]()
+ * [Projects I have worked on](https://github.com/vacu9708/Projects)
+* 
