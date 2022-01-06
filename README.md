@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 * Español : 5 / 10<br/>
 
 ### Click to see my efforts :
+---
 * [Projects I have worked on](https://github.com/vacu9708/Projects)
 * [Implementing data structure]()
 * [Algorithm studying]()
