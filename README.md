@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 * English : 8 / 10<br/>
 * Español : 5 / 10
 ---
-# Click to see :
+# Click to see my efforts :
 ### *Software*
 * [Understanding and implementing data structure]()
 * [Algorithm studying]()
