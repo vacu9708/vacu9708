@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 ---
 ### *Projects I have worked on*
 <details><summary>Details</summary>
-* Dodge pieces of poop (<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C++&logoColor=white">)
+* [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
 </details>
 
 ---
