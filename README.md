@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 ## Introduction
 Nice to meet you. I am looking forward to being a web developer who can take advantage of machine learning. 
-* 😄I always like to laugh.
-* 🥅I am goal-oriented, so I try hard to get closer to my goals.
+* 😄I like to laugh.
+* 🥅I am goal-oriented, so I try hard to get closer to my goals and to be a better person.
 * 🆕I always want to learn new things.
 
 ## 👨‍🎓*Education*
