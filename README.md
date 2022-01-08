@@ -53,5 +53,5 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
   * [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
 
 ## *Fundamental knowledge*
-* [Mathematics](https://github.com/vacu9708/Mathematics)
-* [Electrical engineering](https://github.com/vacu9708/Electrical-engineering)
+* [Mathematics](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Mathematics)
+* [Electrical engineering](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Electrical-engineering)
