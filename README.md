@@ -42,7 +42,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 ## *Projects I have worked on*
 * Simple C++ games
   * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
-  * [Red light, green light](https://github.com/vacu9708/https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
+  * [Red light, green light](https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
   * [Simon game](https://github.com/vacu9708/Simon-game) (C++, SFML)
 
 * Simple projects using basic skills
