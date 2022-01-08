@@ -32,7 +32,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 ## *Language skills*
 * **Korean(한국어)** : 10 / 10
 * **English** : 8 / 10
-* **Spanish(Español)** : 6 / 10 (My hobby)
+* **Spanish(Español)** : 6 / 10
 
 # Click to see my efforts :
 ## *Computer science*
@@ -54,4 +54,4 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 
 ## *Fundamental knowledge*
 * [Mathematics](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Mathematics)
-* [Electrical engineering](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Electrical-engineering)
+* [Electrical engineering](https://github.com/vacu9708/Fundamental-knowledge/tree/main/Electrical%20engineering)
