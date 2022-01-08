@@ -37,7 +37,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 # Click to see my efforts :
 ## *Computer science*
 * [Understanding and implementing data structure](https://github.com/vacu9708/Data-structure)
-* [Algorithm studying](https://github.com/vacu9708/Algorithm-studying)
+* [Algorithm](https://github.com/vacu9708/Algorithm)
 
 ## *Projects I have worked on*
 * Simple C++ games
