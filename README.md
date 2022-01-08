@@ -55,3 +55,4 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 ## *Fundamental knowledge*
 * [Mathematics](https://github.com/vacu9708/Mathematics)
 * [Electrical engineering](https://github.com/vacu9708/Electrical-engineering)
+* [Other studyings](https://github.com/vacu9708/Other-studyings)
