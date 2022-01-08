@@ -30,7 +30,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
 
 ## *Language skills*
-* **Korean(한국어)** : 10 / 10
+* **Korean(한국어)** : 10 / 10 (native language)
 * **English** : 8 / 10
 * **Spanish(Español)** : 6 / 10
 
