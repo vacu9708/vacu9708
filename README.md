@@ -23,7 +23,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 * 😄I like to laugh.
 * 🥅I am goal-oriented, so I try hard to get closer to my goals and to be a better person.
 * 🆕I always want to learn new things.
-* 🌲I would like to try my best to help your company grow. 
+* 🌲I would like to try my best to work well with my team together.
 
 ## 👨‍🎓*Education*
 >Incheon National University, Songdo Campus<br/>
