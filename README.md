@@ -49,7 +49,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
-* To learn basic things of C#
+* To the learn basic things of C#
   * [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
 
 ## *Fundamental knowledge*
