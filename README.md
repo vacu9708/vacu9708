@@ -42,8 +42,8 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 ## *Projects I have worked on*
 * Simple C++ games (to get used to objected-oriented programming)
   * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
-  * [Red light, green light](https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
   * [Simon game](https://github.com/vacu9708/Simon-game) (C++, SFML)
+  * [Red light, green light](https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
 
 * Simple projects with help of comfortable tools
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
