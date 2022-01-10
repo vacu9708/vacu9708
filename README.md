@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ## Welcome to<br/>
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=House%20of%20efforts&fontSize=90)<br/>
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vacu9708&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Introduction
