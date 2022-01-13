@@ -30,7 +30,7 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 
 ## *Language skills*
 * **Korean(한국어)** : 10 / 10 (native language)
-* **English** : 8 / 10
+* **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
 
 # Click to see my efforts :
