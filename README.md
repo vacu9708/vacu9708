@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Introduction
+![ID picture](https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg)
+
 Nice to meet you. I am looking forward to being a web developer who can take advantage of machine learning. 
 * 😄I like to laugh.
 * 🥅I am goal-oriented, so I try hard to get closer to my goals and to be a better person.
