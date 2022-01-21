@@ -26,7 +26,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * 🌲I would like to try my best to work well with my team together.
 
 >I started to know about programming when I was 13 years old because of a game called GTA san andreas. I wanted to make game modes that could make the game funner and realized
->that I have to do something called "programming" to be able to do that. I got interested and started to learn programming to make the game modes. Now, I'm running to be
+>that I have to do something called "programming" to be able to do that. I got interested and started to learn programming to make the game modes. Now, I'm looking forward to be
 >a software engineer.
 
 ## 👨‍🎓*Education*
@@ -39,7 +39,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * **Spanish(Español)** : 6 / 10
 > I have never been abroad and didn't speak these languages at first. I tried hard to learn english with various ways such as trying to translate american songs, 
 > playing games in english, trying to talk to foreigners, doing as many things as possible in english, reading american news, studying for authorized english tests, etc.<br>
-> I didn't study spanish as hard as I studied english, but I've been interested in this language and studying it as a hobby steadily.
+> I didn't study spanish as hard as I studied english, but I have been interested in this language and have been studying it as a hobby steadily.
 
 # Please click to see :
 ## *Computer science*
