@@ -53,12 +53,11 @@ I tried to write comments on the code as in much detail as possible.
   * [Simon game](https://github.com/vacu9708/Simon-game) (C++, SFML)
   * [Red light, green light](https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
 
-* Simple projects with help of comfortable tools
+* Toy projects with help of comfortable tools
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
-* To the learn basic things of C#
-  * [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
+To the learn basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
 
 ## *Etc*
 * [Other studyings](https://github.com/vacu9708/Other-studyings)
