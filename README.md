@@ -20,11 +20,14 @@ Here are some ideas to get you started:
 ## Introduction
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
-Nice to meet you. I am looking forward to being a web developer who can take advantage of machine learning. 
-* 😄I like to laugh.
+Nice to meet you. I have been looking forward to being a web developer who can take advantage of machine learning. 
 * 🥅I am goal-oriented, so I try hard to get closer to my goals and to be a better person.
-* 🆕I always want to learn new things.
+* 🆕I am always interested in new technology and want to learn new things.
 * 🌲I would like to try my best to work well with my team together.
+
+>I started to know about programming when I was 13 years old because of a game called GTA san andreas. I wanted to make game modes that could make the game funner and realized
+>that I have to do something called "programming" to be able to do that. I got interested and started to learn programming to make the game modes. Now, I'm running to be
+>a software engineer.
 
 ## 👨‍🎓*Education*
 >Incheon National University, Songdo Campus<br/>
@@ -34,6 +37,9 @@ Nice to meet you. I am looking forward to being a web developer who can take adv
 * **Korean(한국어)** : 10 / 10 (native language)
 * **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
+> I have never been abroad and didn't speak these languages at first. I tried hard to learn english with various ways such as trying to translate american songs, 
+> playing games in english, trying to talk to foreigners, doing as many things as possible in english, reading american news, studying for authorized english tests, etc.<br>
+> I didn't study spanish as hard as I studied english, but I've been interested in this language and studying it as a hobby steadily.
 
 # Please click to see :
 ## *Computer science*
