@@ -38,14 +38,14 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * **Korean(한국어)** : 10 / 10 (native language)
 * **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
-> I have never been abroad and didn't speak these languages at first. I tried hard to learn english with various ways such as trying to translate american songs, 
+> I have never been abroad and didn't speak these languages at first. I tried hard to learn english with various ways such as translating american songs, 
 > playing games in english, trying to talk to foreigners, doing as many things as possible in english, reading american news, studying for authorized english tests, etc.<br>
 > I didn't study spanish as hard as I studied english, but I have been interested in this language and have been studying it as a hobby steadily.
 
 # Please click to see :
 ## *Computer science*
 I tried to write comments on the code as in much detail as possible.
-* [Understanding and implementing data structure](https://github.com/vacu9708/Data-structure)
+* [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 
 ## *Projects I have worked on*
