@@ -23,11 +23,11 @@ Here are some ideas to get you started:
 Nice to meet you. I have been looking forward to being a web developer who can take advantage of machine learning. 
 * 🥅I am goal-oriented, so I try hard to get closer to my goals and to be a better person.
 * 🆕I am always interested in new technology and want to learn new things.
-* 🌲I would like to try my best to work well with my team together.
+* 🌲I would like to try my best to work well with my team.
 
->I started to know about programming when I was 13 years old because of a game called GTA san andreas. I wanted to make game modes that could make the game funner and realized
+>I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
 >that I had
-> to do something called "programming" to be able to do that. I got interested and started to learn programming to make the game modes. Now, I'm looking forward to be
+> to do something called "programming" to be able to do that. I became interested and started to learn programming to make the game modes. Now, I'm looking forward to be
 >a software engineer.
 
 ## 👨‍🎓*Education*
@@ -39,12 +39,12 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
 > I have never been abroad and didn't speak these languages at first. I tried hard to learn english with various ways such as translating american songs, 
-> playing games in english, trying to talk to foreigners, doing as many things as possible in english, reading american news, studying for authorized english tests, etc.<br>
-> I didn't study spanish as hard as I studied english, but I have been interested in this language and have been studying it as a hobby steadily.
+> playing games in english, trying to talk to foreigners, reading american news, studying for authorized english tests, etc.<br>
+> I didn't study spanish as hard as I studied english, but I have been interested in this language and have been studying it steadily as a hobby.
 
 # Please click to see :
 ## *Computer science*
-I tried to write comments on the code as in much detail as possible.
+I tried to write comments on the code in as much detail as possible.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 
