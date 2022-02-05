@@ -27,7 +27,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 
 >I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
 >that I had
-> to do something called "programming" to be able to do that. I became interested and started to learn programming to make the game modes. Now, I'm looking forward to be
+> to do something called "programming" to do that. I became interested and started to learn programming to make the game modes. Now, I'm looking forward to be
 >a software engineer.
 
 ## 👨‍🎓*Education*
