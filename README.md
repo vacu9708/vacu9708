@@ -58,7 +58,7 @@ I tried to write comments on the code in as much detail as possible.
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
-To the learn basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
+To the learn the basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
 
 ## *Etc*
 * [Other studyings](https://github.com/vacu9708/Other-studyings)
