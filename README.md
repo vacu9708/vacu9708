@@ -44,7 +44,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 
 # Please click to see :
 ## *Computer science*
-I tried to write comments on the code in as much detail as possible.
+I tried to write comments on the code in as much detail as possible as well as explain things I understood.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 
@@ -58,7 +58,7 @@ I tried to write comments on the code in as much detail as possible.
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
-To the learn the basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
+To learn the basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
 
 ## *Etc*
 * [Other studyings](https://github.com/vacu9708/Other-studyings)
