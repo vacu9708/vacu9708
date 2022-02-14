@@ -48,6 +48,9 @@ I tried to write comments on the code in as much detail as possible as well as e
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 
+## *Etc*
+* [Control engineering](https://github.com/vacu9708/Control-engineering)
+
 ## *Projects I have worked on*
 * C++ games I made to get used to objected-oriented programming
   * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
@@ -59,6 +62,3 @@ I tried to write comments on the code in as much detail as possible as well as e
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
 To learn the basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
-
-## *Etc*
-* [Other studyings](https://github.com/vacu9708/Other-studyings)
