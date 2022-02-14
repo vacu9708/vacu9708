@@ -43,12 +43,10 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 > I didn't study spanish as hard as I studied english, but I have been interested in this language and have been studying it steadily as a hobby.
 
 # Please click to see :
-## *Computer science*
+## *My studying*
 I tried to write comments on the code in as much detail as possible and explain things I understood.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
-
-## *Etc*
 * [Control engineering](https://github.com/vacu9708/Control-engineering)
 
 ## *Projects I have worked on*
