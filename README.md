@@ -47,7 +47,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 I tried to write comments on the code in as much detail as possible and explain things I understood.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
-* [Signal processing](https://github.com/vacu9708/Control-engineering)
+* [Signal processing](https://github.com/vacu9708/Signal-processing)
 
 ## *Projects I have worked on*
 * C++ games I made to get used to objected-oriented programming
