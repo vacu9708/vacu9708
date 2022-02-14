@@ -44,7 +44,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 
 # Please click to see :
 ## *Computer science*
-I tried to write comments on the code in as much detail as possible as well as explain things I understood.
+I tried to write comments on the code in as much detail as possible and explain things I understood.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 
