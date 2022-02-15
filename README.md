@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Resume&fontSize=90)<br/>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My record&fontSize=90)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vacu9708&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)
 
