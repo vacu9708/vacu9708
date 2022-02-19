@@ -39,9 +39,8 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * **Korean(한국어)** : 10 / 10 (native language)
 * **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
-> I have never been abroad and didn't speak these languages at first. I tried hard to learn english with various ways such as translating american songs, 
-> playing games in english, trying to talk to foreigners, reading american news, studying for authorized english tests, etc.<br>
-> I didn't study spanish as hard as I studied english, but I have been interested in this language and have been studying it steadily as a hobby.
+> I tried hard to learn english with various ways such as translating american songs, playing games in english, trying to talk to foreigners, reading american news, studying for authorized english tests, etc.<br>
+> I haven't studied spanish as hard as I studied english, but I have been interested in this language and have been studying it steadily as a hobby.
 
 # Please click to see :
 ## *Things I studied*
