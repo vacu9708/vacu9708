@@ -55,7 +55,7 @@ I tried to write comments on the code in as much detail as possible and explain 
   * [Simon game](https://github.com/vacu9708/Simon-game) (C++, SFML)
   * [Red light, green light](https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
 
-* Toy projects with help of comfortable tools
+* Toy projects
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner) (Arduino)
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
