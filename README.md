@@ -26,11 +26,6 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * 🆕I am always interested in new technology and want to learn new things.
 * 🌲I would like to try my best to work well with my team.
 
->I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
->that I had
-> to do something called "programming" to do that. I became interested and started to learn programming to make the game modes. Now, I'm looking forward to be
->a software engineer.
-
 ## 👨‍🎓*Education*
 >Incheon National University, Songdo Campus<br/>
 >Bachelor's Degree, Dept. of Embedded Systems Engineering
@@ -39,7 +34,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * **Korean(한국어)** : 10 / 10 (native language)
 * **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
-> I tried hard to learn english with various ways such as translating american songs, playing games in english, talking to foreigners, reading american news, studying for authorized english tests, etc.<br>
+> I tried hard to learn english with various ways such as translating american songs, talking to foreigners, reading american news, etc.<br>
 > I haven't studied spanish as hard as I studied english, but I have been interested in this language and have been studying it steadily as a hobby.
 
 # Please click to see :
@@ -60,3 +55,8 @@ I tried to write comments on the code in as much detail as possible and explain 
   * [Release your stress](https://github.com/vacu9708/Release-your-stress) (Javascript)
   
 To learn the basic things of C# : [Calculator](https://github.com/vacu9708/Calculator-C-sharp) (C#)
+
+### How I became interested in programming
+>I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
+>that I had
+> to do something called "programming" to do that. I became interested and started to learn programming to make the game modes.
