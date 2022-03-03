@@ -27,8 +27,8 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * 🌲I would like to try my best to work well with my team.
 
 ## 👨‍🎓*Education*
->Incheon National University, Songdo Campus<br/>
->Bachelor's Degree, Dept. of Embedded Systems Engineering
+>Dept. of Embedded Systems Engineering, College of Information Technology<br>
+>Incheon National University
 
 ## *Language skills*
 * **Korean(한국어)** : 10 / 10 (native language)
