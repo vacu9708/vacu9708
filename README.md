@@ -45,7 +45,6 @@ I tried to write comments on the code in as much detail as possible and explain 
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 
 ## *Projects I have worked on*
-* C++ games I made to get used to objected-oriented programming
   * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop) (C++, SFML)
   * [Simon game](https://github.com/vacu9708/Simon-game) (C++, SFML)
   * [Red light, green light](https://github.com/vacu9708/Red-light-green-light) (C++, SFML)
