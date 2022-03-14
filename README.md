@@ -35,7 +35,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 * **English** : 9 / 10
 * **Spanish(Español)** : 6 / 10
 > I tried hard to learn english with various ways such as translating american songs, talking to foreigners, reading american news, etc.<br>
-> I haven't studied spanish as hard as I studied english, but I have been interested in this language and have been studying it steadily as a hobby.
+> I have been learning other languages as a hobby too.
 
 # Please click to see :
 ## *Things I studied*
