@@ -39,7 +39,7 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 
 # Please click to see :
 ## *Things I studied*
-I tried to write comments on the code in as much detail as possible and explain things I understood well.
+I tried to write comments on the code in as much detail as possible to explain things I understood well.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
