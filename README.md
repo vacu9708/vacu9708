@@ -47,7 +47,7 @@ I tried to write comments on the code in as much detail as possible to explain t
 
 ## *Projects I have worked on*
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
-  * [Smart CCTV for automated stores (Current project I am working on)](https://github.com/vacu9708/Smart-CCTV)
+  * [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
   * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
   * [Simon game](https://github.com/vacu9708/Simon-game)
   * [Red light, green light](https://github.com/vacu9708/Red-light-green-light)
