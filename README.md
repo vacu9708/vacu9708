@@ -44,6 +44,7 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning (studying in progress)](https://github.com/vacu9708/Machine-learning)
+* [Web development](https://github.com/vacu9708/Web-development)
 
 ## *Projects I have worked on*
   * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
