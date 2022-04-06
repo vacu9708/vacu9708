@@ -46,14 +46,17 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Machine learning (studying in progress)](https://github.com/vacu9708/Machine-learning)
 * [Web development](https://github.com/vacu9708/Web-development)
 
+## *Basic studying*
+* [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
+
 ## *Projects I have worked on*
-  * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
-  * [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
-  * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
-  * [Simon game](https://github.com/vacu9708/Simon-game)
-  * [Red light, green light](https://github.com/vacu9708/Red-light-green-light)
-  * [Release your stress](https://github.com/vacu9708/Release-your-stress)
-  * [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
+* [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
+* [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
+* [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
+* [Simon game](https://github.com/vacu9708/Simon-game)
+* [Red light, green light](https://github.com/vacu9708/Red-light-green-light)
+* [Release your stress](https://github.com/vacu9708/Release-your-stress)
+
 ### How I became interested in programming
 >I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
 >that I had
