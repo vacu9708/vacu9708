@@ -44,7 +44,6 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning (studying in progress)](https://github.com/vacu9708/Machine-learning)
-* [Web development](https://github.com/vacu9708/Web-development)
 
 ## *Basic studying*
 * [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
@@ -52,6 +51,7 @@ I tried to write comments on the code in as much detail as possible to explain t
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
+* [Foreign language helper (in progress)](https://github.com/vacu9708/Foreign-language-helper)
 * [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
 * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
 * [Simon game](https://github.com/vacu9708/Simon-game)
