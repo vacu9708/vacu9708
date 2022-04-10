@@ -38,14 +38,15 @@ Nice to meet you. I have been looking forward to being a web developer who can t
 > I have been learning other languages as a hobby too.
 
 # Please click to see :
-## *Things I studied*
+## *The record of my studying*
 I tried to write comments on the code in as much detail as possible to explain things I understood well.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning (studying in progress)](https://github.com/vacu9708/Machine-learning)
+* [Web development](https://github.com/vacu9708/Web-development)
 
-## *Basic studying*
+## *Simple things I made for studying*
 * [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
 * [Release your stress](https://github.com/vacu9708/Release-your-stress)
 
