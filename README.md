@@ -46,9 +46,12 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Machine learning](https://github.com/vacu9708/Machine-learning)
 * [Web development](https://github.com/vacu9708/Web-development)
 
-## *Simple things I made for studying*
+## *Simple things for studying*
 * [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
 * [Release your stress](https://github.com/vacu9708/Release-your-stress)
+
+## Clone projects for studying
+* [Twitter clone]()
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
