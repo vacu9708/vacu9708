@@ -43,7 +43,7 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
-* [Machine learning (studying in progress)](https://github.com/vacu9708/Machine-learning)
+* [Machine learning](https://github.com/vacu9708/Machine-learning)
 * [Web development](https://github.com/vacu9708/Web-development)
 
 ## *Simple things I made for studying*
