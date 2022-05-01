@@ -46,20 +46,20 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Machine learning](https://github.com/vacu9708/Machine-learning)
 * [Web development](https://github.com/vacu9708/Web-development)
 
-## *Simple things for studying*
-* [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
-* [Release your stress](https://github.com/vacu9708/Release-your-stress)
-
-## *Clone projects for studying*
-* [Twitter clone]()
-
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Foreign language helper (in progress)](https://github.com/vacu9708/Foreign-language-helper)
 * [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
+
+## *Clone projects for studying*
+* [Twitter clone]()
+
+## *Small projects for studying*
 * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
 * [Simon game](https://github.com/vacu9708/Simon-game)
 * [Red light, green light](https://github.com/vacu9708/Red-light-green-light)
+* [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
+* [Release your stress](https://github.com/vacu9708/Release-your-stress)
 
 ### How I became interested in programming
 >I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
