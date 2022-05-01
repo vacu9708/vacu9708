@@ -50,7 +50,7 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
 * [Release your stress](https://github.com/vacu9708/Release-your-stress)
 
-## Clone projects for studying
+## *Clone projects for studying*
 * [Twitter clone]()
 
 ## *Projects I have worked on*
