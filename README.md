@@ -32,7 +32,7 @@ Nice to meet you.
 
 ## *Language skills*
 * **Korean(한국어)** : 10 / 10 (native language)
-* **English** : 9 / 10
+* **English** : 8.5 / 10
 * **Spanish(Español)** : 6 / 10
 > I tried hard to learn english with various ways such as translating american songs, talking to foreigners, reading american news, etc.<br>
 > I have been learning other languages as a hobby too.
