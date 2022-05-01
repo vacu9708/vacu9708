@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
 Nice to meet you. I have been looking forward to being a web developer who can take advantage of machine learning. 
-* 🥅I am goal-oriented, so I try hard to get closer to my goals and to be a better person.
+* 🥅Though this is a worn-out phrase, I would really like to try hard to grow to be a better developer.
 * 🆕I am always interested in new technology and want to learn new things.
 * 🌲I would like to try my best to work well with my team.
 
