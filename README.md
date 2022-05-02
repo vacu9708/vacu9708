@@ -52,7 +52,7 @@ I tried to write comments on the code in as much detail as possible to explain t
 * [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
 
 ## *Clone projects for studying*
-* [Twitter clone]()
+* [Twitter clone](https://github.com/vacu9708/Twitter-clone)
 
 ## *Small projects for studying*
 * [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
