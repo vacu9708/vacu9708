@@ -42,24 +42,15 @@ Nice to meet you. I am currently looking forward to be a backend developer.
 I tried to write comments on the code in as much detail as possible to explain things I understood well.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
+* [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning](https://github.com/vacu9708/Machine-learning)
-* [Web development](https://github.com/vacu9708/Web-development)
+* [Small projects for studying](https://github.com/vacu9708/vacu9708/tree/main/small%20projects%20for%20studying)
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Foreign language helper (in progress)](https://github.com/vacu9708/Foreign-language-helper)
 * [Smart CCTV for automated stores (in progress)](https://github.com/vacu9708/Smart-CCTV)
-
-## *Clone projects for studying*
-* [Twitter clone](https://github.com/vacu9708/Twitter-clone)
-
-## *Small projects for studying*
-* [Dodge pieces of poop](https://github.com/vacu9708/Dodge-pieces-of-poop)
-* [Simon game](https://github.com/vacu9708/Simon-game)
-* [Red light, green light](https://github.com/vacu9708/Red-light-green-light)
-* [Calculator](https://github.com/vacu9708/Calculator-C-sharp)
-* [Release your stress](https://github.com/vacu9708/Release-your-stress)
 
 ### How I became interested in programming
 >I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
