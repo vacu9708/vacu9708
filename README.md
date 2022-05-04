@@ -24,7 +24,6 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 
 # Please click to see :
 ## *The record of my studying*
-I tried to write comments on the code in as much detail as possible to explain things I understood well.
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Web development](https://github.com/vacu9708/Web-development)
