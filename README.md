@@ -1,18 +1,3 @@
-<!--
-**vacu9708/vacu9708** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20record&fontSize=90)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vacu9708&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)<br>
@@ -21,7 +6,7 @@ Here are some ideas to get you started:
 ## Introduction
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
-Nice to meet you. I am currently looking forward to be a backend developer.
+Nice to meet you. I am currently looking forward to be a competent web developer.
 * 🥅Though this is a worn-out phrase, I would really like to try hard to grow to be a better developer.
 * 🆕I am ready to learn new things.
 * 🌲I would like to try my best to work well with my team.
