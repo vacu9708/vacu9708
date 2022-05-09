@@ -16,7 +16,7 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 >Incheon National University
 
 ## *Language skills*
-* **Korean(한국어)** : 10 / 10 (native language)
+* **Korean(한국어)** : native language
 * **English** : 8.5 / 10
 * **Spanish(Español)** : 6 / 10
 > I tried hard to learn english with various ways such as translating american songs, talking to foreigners, reading american news, etc.<br>
