@@ -34,7 +34,7 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Foreign language helper (in progress)](https://github.com/vacu9708/Foreign-language-helper)
-* [Ilegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
+* [Illegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
 
 ### How I became interested in programming
 >I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
