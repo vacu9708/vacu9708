@@ -1,4 +1,4 @@
-$ 📷[Video](https://youtu.be/OYb4Le92EiI)
+# 📷[Video](https://youtu.be/OYb4Le92EiI)
 
 # Explanation of the code of the first process, the other 2 processes have the same algorithm.
 
