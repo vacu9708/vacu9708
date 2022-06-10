@@ -11,17 +11,6 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 * 🆕I am ready to learn new things.
 * 🌲I would like to try my best to work well with my team.
 
-## 👨‍🎓*Education*
->Dept. of Embedded Systems Engineering, College of Information Technology<br>
->Incheon National University
-
-## *Language skills*
-* **Korean(한국어)** : native language
-* **English** : 8.5 / 10
-* **Spanish(Español)** : 6 / 10
-> I tried hard to learn english with various ways such as translating american songs, talking to foreigners, reading american news, etc.<br>
-> I have been learning other languages as a hobby too.
-
 # Please click to see :
 ## *The record of my studying*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
