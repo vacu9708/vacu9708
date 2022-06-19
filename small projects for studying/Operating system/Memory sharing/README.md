@@ -1,6 +1,6 @@
 # 📷[Video](https://youtu.be/OYb4Le92EiI)
 
-# Explanation of the code of the first process, the other 2 processes have the same algorithm.
+# Explanation of the code of the first process. The other 2 processes have the same algorithm.
 
 ![image](https://user-images.githubusercontent.com/67142421/170632396-c4fab8a5-fa7a-47e7-bd23-3cbf05004398.png)<br>
 Setting the location of the shared memory. The address will be put into HANDLE shared_memory.
