@@ -18,7 +18,7 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning](https://github.com/vacu9708/Machine-learning)
-* [Small projects for studying](https://github.com/vacu9708/vacu9708/tree/main/small%20projects%20for%20studying)
+* [Small projects for studying](https://github.com/vacu9708/Small-projects-for-studying)
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
