@@ -22,6 +22,7 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
+* [Information notifier](https://github.com/vacu9708/Information_notifier)
 * [Illegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
 * [Foreign language helper (in progress)](https://github.com/vacu9708/Foreign-language-helper)
 
