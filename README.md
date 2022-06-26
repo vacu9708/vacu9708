@@ -12,7 +12,6 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 
 Hobby : Studying foreign languages(currently I am interested in spanish, german), 
 
-# Please click to see :
 ## *The record of my studying*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
