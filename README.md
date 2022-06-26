@@ -7,9 +7,10 @@
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
 Nice to meet you. I am currently looking forward to be a competent web developer.
-* 🥅Though this is a worn-out phrase, I would really like to try hard to grow to be a better developer.
-* 🆕I am ready to learn new things.
+* 🥅Though this is a worn-out phrase, I would really like to try hard to learn new things and grow to be a better developer.
 * 🌲I would like to try my best to work well with my team.
+
+Hobby : Studying foreign languages(currently I am interested in spanish, german), 
 
 # Please click to see :
 ## *The record of my studying*
