@@ -10,8 +10,6 @@ Nice to meet you. I am currently looking forward to be a competent web developer
 * 🥅Though this is a worn-out phrase, I would really like to try hard to learn new things and grow to be a better developer.
 * 🌲I would like to try my best to work well with my team.
 
-Hobby : Studying foreign languages(currently I am interested in spanish, german), 
-
 ## *The record of my studying*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
