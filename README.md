@@ -6,8 +6,12 @@
 ## Introduction
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
+### *There is no such thing as free happiness*
 * 🥅Though this is a worn-out phrase, I would really like to try hard to learn new things and grow to be a better developer.
 * 🌲I would like to try my best to work well with my team.
+
+## Contacts
+* Email : vacu9708@naver.com
 
 ## *The record of my studying*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
