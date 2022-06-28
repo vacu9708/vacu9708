@@ -14,7 +14,7 @@
 * Email : vacu9708@naver.com
 * Github : https://github.com/vacu9708
 
-## *The record of my studying*
+## *My studying record*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Web development](https://github.com/vacu9708/Web-development)
