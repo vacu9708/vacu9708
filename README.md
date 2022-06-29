@@ -9,10 +9,6 @@
 ### *There is no such thing as free happiness*
 * 🥅With this motto, I have been trying hard to learn new things and grow to be a better developer as shown below.
 
-## ☎️ Contacts
-* Email : vacu9708@naver.com
-* Github : https://github.com/vacu9708
-
 ## *My studying record*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
@@ -31,3 +27,7 @@
 >I started to know about programming when I was 13 years old because of a game called GTA San Andreas. I wanted to make game modes that could make the game more fun and realized
 >that I had
 > to do something called "programming" to do that. I became interested and started to learn programming to make the game modes.
+
+## ☎️ Contacts
+* Email : vacu9708@naver.com
+* Github : https://github.com/vacu9708
