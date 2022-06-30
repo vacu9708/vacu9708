@@ -15,6 +15,7 @@
 ## *My studying record*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
+* [Fundamental knowledge](https://github.com/vacu9708/Fundamental-knowledge)
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning](https://github.com/vacu9708/Machine-learning)
