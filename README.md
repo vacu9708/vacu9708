@@ -10,7 +10,7 @@
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
 ### *There is no such thing as free happiness*
-* 🥅With this motto, I have been trying hard to learn new things and grow to be a better developer as shown below.
+🥅With this motto, I have been trying hard to learn new things and grow to be a better developer as shown below.
 
 ## *My studying record*
 * [Data structures](https://github.com/vacu9708/Data-structure)
