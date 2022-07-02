@@ -23,7 +23,6 @@
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Information notifier](https://github.com/vacu9708/Information_notifier)
-* [Illegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
 * [Simple projects for studying](https://github.com/vacu9708/Small-projects-for-studying)
 
 ## *Language*
