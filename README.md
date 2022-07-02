@@ -26,6 +26,13 @@
 * [Information notifier](https://github.com/vacu9708/Information_notifier)
 * [Illegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
 
+## *Language*
+>Korean(native) English(fluent) Spanish(intermediate)
+
+## *Education*
+associate's degree, digital electronics, inha technical college (2016 feb ~ 2021 feb)
+bachelor's degree, embedded systems engineering, incheon national university (2021 feb ~ expected graduation date : 2023 feb)
+
 ### How I became interested in programming
 >I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
 >that I had to do something called "programming" to do that. I became interested and started to learn programming.
