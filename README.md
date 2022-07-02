@@ -32,8 +32,7 @@
 >Spanish(intermediate)
 
 ## *Education*
->associate's degree, digital electronics, inha technical college (2016 feb ~ 2021 feb)<br>
->bachelor's degree, embedded systems engineering, incheon national university (2021 feb ~ expected graduation date : 2023 feb)
+>bachelor's degree, embedded systems engineering, incheon national university (expected graduation date : 2023 feb)
 
 ### How I became interested in programming
 >I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
