@@ -19,19 +19,21 @@
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 * [Machine learning](https://github.com/vacu9708/Machine-learning)
-* [Small projects for studying](https://github.com/vacu9708/Small-projects-for-studying)
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Information notifier](https://github.com/vacu9708/Information_notifier)
 * [Illegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
+* [Simple projects for studying](https://github.com/vacu9708/Small-projects-for-studying)
 
 ## *Language*
->Korean(native) English(fluent) Spanish(intermediate)
+>Korean(native)<br>
+>English(fluent)<br>
+>Spanish(intermediate)
 
 ## *Education*
-associate's degree, digital electronics, inha technical college (2016 feb ~ 2021 feb)
-bachelor's degree, embedded systems engineering, incheon national university (2021 feb ~ expected graduation date : 2023 feb)
+>associate's degree, digital electronics, inha technical college (2016 feb ~ 2021 feb)<br>
+>bachelor's degree, embedded systems engineering, incheon national university (2021 feb ~ expected graduation date : 2023 feb)
 
 ### How I became interested in programming
 >I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
