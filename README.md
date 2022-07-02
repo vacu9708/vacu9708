@@ -13,7 +13,7 @@
 * 🥅With this motto, I have been trying hard to learn new things and grow to be a better developer as shown below.
 
 ## *My studying record*
-* [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
+* [Understanding data structures](https://github.com/vacu9708/Data-structure)
 * [Understanding algorithm](https://github.com/vacu9708/Algorithm)
 * [Fundamental knowledge](https://github.com/vacu9708/Fundamental-knowledge)
 * [Web development](https://github.com/vacu9708/Web-development)
