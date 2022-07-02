@@ -1,16 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20record&fontSize=90)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vacu9708&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvacu9708&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                   
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvacu9708&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                
+## ☎️ Contacts
+* Email : vacu9708@naver.com
+* Github : https://github.com/vacu9708
+
 ## Introduction
 <img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
 ### *There is no such thing as free happiness*
 * 🥅With this motto, I have been trying hard to learn new things and grow to be a better developer as shown below.
-
-## ☎️ Contacts
-* Email : vacu9708@naver.com
-* Github : https://github.com/vacu9708
 
 ## *My studying record*
 * [Understanding and implementing data structures](https://github.com/vacu9708/Data-structure)
@@ -26,6 +26,9 @@
 * [Information notifier](https://github.com/vacu9708/Information_notifier)
 * [Illegal parking detecter, notifier](https://github.com/vacu9708/Smart-CCTV)
 * [Foreign language helper (in progress)](https://github.com/vacu9708/Foreign-language-helper)
+
+## Education
+Incheon National University, 
 
 ### How I became interested in programming
 >I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
