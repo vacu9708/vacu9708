@@ -11,8 +11,9 @@
 
 ### *There is no such thing as free happiness*
 * 🥅With this motto, I have been trying hard to learn new things and grow to be a better person each day.<br>
-* My current goal is to grow as a frontend engineer.<br>
-I like studying foreign languages, which affected me and made me interested in Natural Language Processing. So, I am going to keep studying it to dive into that field.
+* My current goal is to grow to be a good frontend engineer(hopefully fullstack).<br>
+I like studying foreign languages, which affected me and made me interested in Natural Language Processing.
+I want to study it hard to dive into that field once I can finish my tasks as a junior frontend engineer.
 
 ## *My studying record*
 * [Data structures](https://github.com/vacu9708/Data-structure)
