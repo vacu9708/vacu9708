@@ -28,9 +28,9 @@ I want to study it hard to dive into that field once I reach the level where I c
 * [Simple projects for studying](https://github.com/vacu9708/Small-projects-for-studying)
 
 ## *Language*
->Korean(native)<br>
->English(fluent) (interview in english proficiency)<br>
->Spanish(intermediate) (everyday conversation in clear madrid pronunciation proficiency)
+>Korean (native)<br>
+>English (job interview in english proficiency)<br>
+>Spanish (everyday conversation in clear madrid spanish proficiency)
 
 ## *Education*
 >bachelor's degree, embedded systems engineering, incheon national university (expected graduation date : 2023 feb)
