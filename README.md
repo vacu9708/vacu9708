@@ -29,8 +29,8 @@ I want to study it hard to dive into that field once I reach the level where I c
 
 ## *Language*
 >Korean(native)<br>
->English(fluent)(interview in english proficiency)<br>
->Spanish(intermediate)(everyday conversation in Madrid standard accent proficiency)
+>English(fluent) (interview in english proficiency)<br>
+>Spanish(intermediate) (everyday conversation in clear madrid pronunciation proficiency)
 
 ## *Education*
 >bachelor's degree, embedded systems engineering, incheon national university (expected graduation date : 2023 feb)
