@@ -30,7 +30,7 @@ I want to study it hard to dive into that field once I reach the level where I c
 ## *Language*
 >Korean (native)<br>
 >English (working proficiency)<br>
->Spanish (everyday conversation with clear standard pronunciation proficiency)
+>Spanish (everyday conversation that is not fast possible)
 
 ## *Education*
 >bachelor's degree, embedded systems engineering, incheon national university (expected graduation date : 2023 feb)
