@@ -15,8 +15,8 @@
 I like studying foreign languages, which affected me and made me interested in Natural Language Processing.
 I want to study it hard to dive into that field once I reach the level where I can finish my tasks as a juior frontend engineer.
 
-## *My studying record*
-* [Fundamental knowledge](https://github.com/vacu9708/Fundamental-knowledge)
+## *Study note*
+* [Fundamental knowledge of computer](https://github.com/vacu9708/Fundamental-knowledge)
 * [Algorithm](https://github.com/vacu9708/Algorithm)
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
