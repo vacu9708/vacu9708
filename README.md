@@ -11,11 +11,12 @@
 
 ### *There is no such thing as free happiness*
 * 🥅With this motto, I have been trying hard to learn new things and grow to be a better person each day.<br>
-* My current goal is to grow as a good junior frontend engineer(hopefully fullstack).<br>
+* My current goal is to grow as a junior frontend engineer(hopefully fullstack).<br>
 
-### My goal for the future
+### My future goal
 I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
-I want to try to dive into that field once I reach the level where I can finish my tasks as a frontend engineer.
+I want to try to dive into that field once I reach the level where I can finish my tasks as a frontend engineer.<br>
+[Machine learning(empty yet)](https://github.com/vacu9708/Machine-learning)
 
 ## *Study note*
 * [Algorithm](https://github.com/vacu9708/Algorithm)
