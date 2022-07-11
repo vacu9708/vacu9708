@@ -12,7 +12,9 @@
 ### *There is no such thing as free happiness*
 * 🥅With this motto, I have been trying hard to learn new things and grow to be a better person each day.<br>
 * My current goal is to grow as a good junior frontend engineer(hopefully fullstack).<br>
-I like studying foreign languages, which affected me and made me interested in Natural Language Processing.
+
+### My goal for the future
+I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
 I want to study it hard to dive into that field once I reach the level where I can finish my tasks as a juior frontend engineer.
 
 ## *Study note*
@@ -20,7 +22,6 @@ I want to study it hard to dive into that field once I reach the level where I c
 * [Fundamental knowledge of computer](https://github.com/vacu9708/Fundamental-knowledge)
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
-* [Machine learning](https://github.com/vacu9708/Machine-learning)
 
 ## *Projects I have worked on*
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
