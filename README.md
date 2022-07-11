@@ -15,7 +15,7 @@
 
 ### My goal for the future
 I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
-I want to study it hard to dive into that field once I reach the level where I can finish my tasks as a juior frontend engineer.
+I want to try to dive into that field once I reach the level where I can finish my tasks as a frontend engineer.
 
 ## *Study note*
 * [Algorithm](https://github.com/vacu9708/Algorithm)
