@@ -16,7 +16,6 @@
 ### My future goal
 I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
 I want to try to dive into that field once I reach the level where I can finish my tasks as a web developer.<br>
-[Machine learning(empty yet)](https://github.com/vacu9708/Machine-learning)
 
 ## *Study note*
 * [Algorithm](https://github.com/vacu9708/Algorithm)
