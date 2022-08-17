@@ -29,6 +29,10 @@
 I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
 I would like to try to dive into that field once I reach the level where I can finish my tasks as a web developer.<br>
 
+## How I became interested in programming
+I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
+that I had to do something called "programming" to do that. I became interested and started to learn programming.
+
 ## *Language*
 >Korean (native)<br>
 >English (working proficiency)<br>
@@ -36,7 +40,3 @@ I would like to try to dive into that field once I reach the level where I can f
 
 ## *Education*
 >bachelor's degree, embedded systems engineering, incheon national university (expected graduation date : 2023 feb)
-
-### How I became interested in programming
->I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
->that I had to do something called "programming" to do that. I became interested and started to learn programming.
