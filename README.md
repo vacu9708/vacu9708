@@ -1,20 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=My%20record&fontSize=90)<br/>
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vacu9708&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvacu9708&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)                
-## ☎️ Contacts
-* Email : vacu9708@naver.com
-* Github : https://github.com/vacu9708
-
-## Introduction
-<img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
-
-* I have been trying hard to learn new things and grow to be a better person each day.<br>
-* My current goal is to grow as a junior web developer(hopefully fullstack).<br>
-
-### My future goal
-I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
-I would like to try to dive into that field once I reach the level where I can finish my tasks as a web developer.<br>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvacu9708&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)       
 
 ## *Study note*
 * [Algorithm](https://github.com/vacu9708/Algorithm)
@@ -26,6 +13,20 @@ I would like to try to dive into that field once I reach the level where I can f
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Information notifier](https://github.com/vacu9708/Information_notifier)
 * [Simple projects for studying](https://github.com/vacu9708/Small-projects-for-studying)
+
+## Introduction
+<img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
+
+## ☎️ Contacts
+* Email : vacu9708@naver.com
+* Github : https://github.com/vacu9708
+
+* I have been trying hard to learn new things and grow to be a better person each day.<br>
+* My current goal is to grow as a junior web developer(hopefully fullstack).<br>
+
+### My future goal
+I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
+I would like to try to dive into that field once I reach the level where I can finish my tasks as a web developer.<br>
 
 ## *Language*
 >Korean (native)<br>
