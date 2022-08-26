@@ -3,13 +3,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vacu9708)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fvacu9708&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)       
 
-# *Study note*
+# Study note
 * [Algorithm](https://github.com/vacu9708/Algorithm)
 * [Fundamental knowledge of computer](https://github.com/vacu9708/Fundamental-knowledge)
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 
-# *Projects I have worked on*
+### Projects
 * [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Toy projects](https://github.com/vacu9708/Toy-projects)
 
