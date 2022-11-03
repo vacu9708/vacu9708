@@ -10,7 +10,6 @@
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 
 ### Projects
-* [Guitar tuner](https://github.com/vacu9708/Guitar-tuner)
 * [Toy projects](https://github.com/vacu9708/Toy-projects)
 
 # Introduction
