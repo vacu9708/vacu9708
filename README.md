@@ -12,7 +12,6 @@
 * [Toy projects](https://github.com/vacu9708/Toy-projects)
 
 # Introduction
-<img src = "https://user-images.githubusercontent.com/67142421/150077748-22b2694c-35bf-40a0-858e-a46cff23c9ef.jpg" width="208" height="267">
 
 ## ☎️ Contacts
 * Email : vacu9708@naver.com
