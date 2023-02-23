@@ -8,23 +8,10 @@
 * [Web development](https://github.com/vacu9708/Web-development)
 * [Signal processing](https://github.com/vacu9708/Signal-processing)
 
-### Projects
+# Projects
 * [Toy projects](https://github.com/vacu9708/Toy-projects)
 
-# Introduction
-
-## ☎️ Contacts
-* Email : vacu9708@naver.com
-* Github : https://github.com/vacu9708
-
 ## About me
-* I have been trying hard to learn new things and grow to be a better person each day.<br>
-* My current goal is to grow as a junior web developer(hopefully fullstack).<br>
-
-## My future goal
-I like studying foreign languages, which affected me and made me interested in Natural Language Processing.<br>
-I would like to try to dive into that field once I reach the level where I can finish my tasks as a web developer.<br>
-
-## How I became interested in programming
-I started to learn about programming when I was 13 years old because I wanted to make game modes that could make a game more fun and realized
-that I had to do something called "programming" to do that. I became interested and started to learn programming.
+I have been trying hard to learn new things and grow to be a better developer each day.<br>
+My current goal is to grow as a junior web developer(hopefully fullstack).<br>
+I would like to try to study natural language processing once I reach the level where I can finish my tasks well as a web developer.<br>
