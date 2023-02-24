@@ -13,6 +13,7 @@
 
 # Skills
 - java spring (level: 5/10)
+- kubernetes (level: 3/10)
 - MERN(mongoDB, express, react, node.js) (level: 5/10)
 - python (level: 5/10)
 - c++ (level: 4/10)
