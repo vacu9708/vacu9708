@@ -12,9 +12,10 @@
 * [Side projects](https://github.com/vacu9708/Toy-projects)
 
 # Skills
-- java spring (level: 4/10)
-- MERN(mongoDB, express, react, node.js) (level: 4/10)
+- java spring (level: 5/10)
+- MERN(mongoDB, express, react, node.js) (level: 5/10)
 - python (level: 5/10)
+- c++ (level: 4/10)
 
 ## About me
 I have been trying hard to learn new things and grow to be a better developer each day.<br>
