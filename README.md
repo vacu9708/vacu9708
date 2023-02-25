@@ -22,7 +22,7 @@
 - react (level: 3/10)
 - express (level: 4/10)
 - mongoDB, mySQL
-- kubernetes
+- docker
 - AWS
 
 ## About me
