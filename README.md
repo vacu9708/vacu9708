@@ -13,17 +13,17 @@
 
 # Skills
 ## languages
-- java (level: 5/10)
-- javascript (level: 5/10)
-- python (level: 5/10)
-- c++ (level: 4/10)
+- java (level: 4/10)
+- javascript (level: 4/10)
+- python (level: 4/10)
+- c++ (level: 3/10)
 ## web development
-- spring boot (level: 5/10)
+- spring boot (level: 4/10)
 - react (level: 3/10)
-- express (level: 5/10)
+- express (level: 4/10)
 - mongoDB, mySQL
-## Others
-- kubernetes (level: 3/10)
+- kubernetes
+- AWS
 
 ## About me
 I have been trying hard to learn new things and grow to be a better developer each day.<br>
