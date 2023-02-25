@@ -12,15 +12,10 @@
 * [Side projects](https://github.com/vacu9708/Toy-projects)
 
 # Skills
-## languages
-- java (level: 4/10)
-- javascript (level: 4/10)
-- python (level: 4/10)
-- c++ (level: 3/10)
-## web development
-- spring boot (level: 4/10)
-- react (level: 3/10)
-- express (level: 4/10)
+- python
+- spring
+- react
+- express
 - mongoDB, mySQL
 - docker
 - AWS
