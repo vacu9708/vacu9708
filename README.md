@@ -18,7 +18,6 @@
 - express
 - mongoDB, mySQL
 - docker
-- AWS
 
 ## About me
 I have been trying hard to learn new things and grow to be a better developer each day.<br>
