@@ -11,14 +11,6 @@
 # Projects
 * [Side projects](https://github.com/vacu9708/Toy-projects)
 
-# Skills
-- python
-- spring
-- react
-- express
-- mongoDB, mySQL
-- docker
-
 ## About me
 I have been trying hard to learn new things and grow to be a better developer each day.<br>
 My current goal is to grow as a decent backend developer(hopefully fullstack).<br>
