@@ -13,5 +13,5 @@
 
 ## About me
 I have been trying hard to learn new things and grow to be a better developer each day.<br>
-My current goal is to grow as a decent backend developer.<br>
-I would like to try to study natural language processing once I reach the level where I can finish my tasks well as a web developer.<br>
+I am interested in backend and embedded system development.<br>
+I would like to try to study natural language processing too.<br>
