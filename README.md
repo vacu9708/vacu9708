@@ -10,8 +10,3 @@
 
 # Projects
 * [Side projects](https://github.com/vacu9708/Toy-projects)
-
-## About me
-I have been trying hard to learn new things and grow to be a better developer each day.<br>
-I am interested in backend and embedded system.<br>
-I would like to try to study natural language processing too.<br>
