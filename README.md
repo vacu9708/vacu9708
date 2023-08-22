@@ -6,7 +6,6 @@
 # Study note
 * [Algorithm](https://github.com/vacu9708/Algorithm)
 * [Fundamental knowledge of computer](https://github.com/vacu9708/Fundamental-knowledge)
-* [Signal processing](https://github.com/vacu9708/Signal-processing)
 
 # Projects
 * [Side projects](https://github.com/vacu9708/Toy-projects)
