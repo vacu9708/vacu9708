@@ -1,1 +1,1 @@
-# [🌟My record](https://github.com/vacu9708/WHO-AM-I/blob/main/README.md)
+# [🌟My record](https://github.com/vacu9708/Records/blob/main/README.md)
