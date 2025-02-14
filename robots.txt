@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://vacu9708.github.io/vacu9708/sitemap.xml
