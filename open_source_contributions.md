@@ -1,11 +1,12 @@
 ## Open source contributions
+Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
+- Fixed a bug in 7 ExecuTorch graph compiler passes where a status flag was hardcoded to always report "graph modified," causing unnecessary graph rebuilding on every invocation; validated with 15 new regression tests ([#19872](https://github.com/pytorch/executorch/pull/19872))
+- Added bfloat16 support to two ARM backend operators; traced the data type flow through the decomposition pipeline, identified that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it, and submitted a fix with tests ([#19751](https://github.com/pytorch/executorch/pull/19751))
+- Resolved an ExecuTorch tutorial export failure by identifying a Python/PyTorch compatibility gap between user setup and CI-tested environments, then upstreaming a fix to prevent setup failures ([#19280](https://github.com/pytorch/executorch/pull/19280))
+
 Contributed to [Microsoft / ONNX Runtime](https://github.com/microsoft/onnxruntime) (cross-platform machine-learning accelerator)
 - Fixed CPU LSTM input validation: added missing weight matrix shape checks, eliminated an out-of-bounds memory read before the rank guard, and refactored validation from the compute backend to each frontend with regression tests ([#28653](https://github.com/microsoft/onnxruntime/pull/28653))
 - Identified a spec-compliance defect in ONNX Runtime where an optional-axes edge case raises a runtime error instead of the correct no-op behavior; reported with a minimal reproducible example and ONNX spec analysis ([#25095](https://github.com/microsoft/onnxruntime/issues/25095))
-
-Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (on-device AI inference framework for edge devices)
-- Added bfloat16 support to two ARM backend operators; traced the data type flow through the decomposition pipeline, identified that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it, and submitted a fix with tests ([#19751](https://github.com/pytorch/executorch/pull/19751))
-- Resolved an ExecuTorch tutorial export failure by identifying a Python/PyTorch compatibility gap between user setup and CI-tested environments, then upstreaming a fix to prevent setup failures ([#19280](https://github.com/pytorch/executorch/pull/19280))
 
 Contributed to [Apache / TVM](https://github.com/apache/tvm) (end-to-end AI compiler)
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification ([#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090))
