@@ -1,9 +1,10 @@
 ## Open source contributions
 Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
-- Hardened runtime/model validation against malformed or incomplete binary/model inputs by adding missing null-field and tensor safety checks, turning reachable crashes into graceful validation errors ([#19904](https://github.com/pytorch/executorch/pull/19904), [#19878](https://github.com/pytorch/executorch/pull/19878))
+- Extended an Arm NPU compiler pass to support argmin alongside argmax, added a compile-time overflow guard for index-to-int32 casts with configurable error handling, and unblocked downstream hardware delegation for models that previously failed with a runtime type mismatch
 - Enabled depthwise Conv3D delegation to Arm NPU targets by extending DecomposeGroupedConvPass to decompose rank-5 depthwise inputs, turning a runtime crash into a hardware-accelerated path ([#19902](https://github.com/pytorch/executorch/pull/19902))
 - Fixed a bug in 7 ExecuTorch graph compiler passes where a status flag was hardcoded to always report "graph modified," causing unnecessary graph rebuilding on every invocation; validated with 15 new regression tests ([#19872](https://github.com/pytorch/executorch/pull/19872))
 - Added bfloat16 support to two ARM backend operators; traced the data type flow through the decomposition pipeline, identified that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it, and submitted a fix with tests ([#19751](https://github.com/pytorch/executorch/pull/19751))
+- Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors ([#19878](https://github.com/pytorch/executorch/pull/19878), [#19904](https://github.com/pytorch/executorch/pull/19904), [#19916](https://github.com/pytorch/executorch/pull/19916))
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix ([#19280](https://github.com/pytorch/executorch/pull/19280))
 
 Contributed to [Microsoft / ONNX Runtime](https://github.com/microsoft/onnxruntime) (cross-platform machine-learning accelerator)
