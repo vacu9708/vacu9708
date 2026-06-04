@@ -1,5 +1,6 @@
 ## Open source contributions
 Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
+- Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang
 - Extended an Arm NPU compiler pass to support argmin alongside argmax and added a compile-time overflow guard for index-to-int32 casts to unblock downstream hardware delegation for models that previously failed with a runtime type mismatch [#19918](https://github.com/pytorch/executorch/pull/19918))
 - Enabled depthwise Conv3D delegation to Arm NPU targets by extending DecomposeGroupedConvPass to decompose rank-5 depthwise inputs, turning a runtime crash into a hardware-accelerated path ([#19902](https://github.com/pytorch/executorch/pull/19902))
 - Added bfloat16 support to two ARM backend operators; traced the data type flow through the decomposition pipeline, identified that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it, and submitted a fix with tests ([#19751](https://github.com/pytorch/executorch/pull/19751))
