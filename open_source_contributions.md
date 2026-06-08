@@ -1,6 +1,6 @@
 ## Open source contributions
 Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
-- Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [20089](https://github.com/pytorch/executorch/pull/20089)
+- Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/#20089)
 - (Under review) Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
 - Extended an Arm NPU compiler pass to support argmin alongside argmax and added a compile-time overflow guard for index-to-int32 casts to unblock downstream hardware delegation for models that previously failed with a runtime type mismatch [#19918](https://github.com/pytorch/executorch/pull/19918)
 - Enabled depthwise Conv3D delegation to Arm NPU targets by extending DecomposeGroupedConvPass to decompose rank-5 depthwise inputs, turning a runtime crash into a hardware-accelerated path [#19902](https://github.com/pytorch/executorch/pull/19902)
