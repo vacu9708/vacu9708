@@ -1,5 +1,6 @@
 ## Open source contributions
 Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
+- Added support for the tensor flip operation in an Arm ML compiler backend, including a pass that decomposes the multi-axis case into hardware-supported reversals, so models using it run on the accelerator instead of falling back to the CPU [#20592](https://github.com/pytorch/executorch/pull/20592)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Extended an Arm NPU compiler pass to support argmin alongside argmax and added a compile-time overflow guard for index-to-int32 casts to unblock downstream hardware delegation for models that previously failed with a runtime type mismatch [#19918](https://github.com/pytorch/executorch/pull/19918)
 - Enabled depthwise Conv3D delegation to Arm NPU targets by extending DecomposeGroupedConvPass to decompose rank-5 depthwise inputs, turning a runtime crash into a hardware-accelerated path [#19902](https://github.com/pytorch/executorch/pull/19902)
@@ -8,7 +9,6 @@ Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Me
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
   - Added Vela COP2 custom-operator payload support ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
-  - Added support for the tensor flip operation in an Arm ML compiler backend, including a pass that decomposes the multi-axis case into hardware-supported reversals, so models using it run on the accelerator instead of falling back to the CPU [#20592](https://github.com/pytorch/executorch/pull/20592)
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
   - Fixed a bug in 7 ExecuTorch graph compiler passes where a status flag was hardcoded to always report "graph modified," causing unnecessary graph rebuilding on every invocation; validated with 15 new regression tests [#19872](https://github.com/pytorch/executorch/pull/19872)
 
