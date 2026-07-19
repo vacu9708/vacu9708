@@ -8,7 +8,7 @@ Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Me
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19904](https://github.com/pytorch/executorch/pull/19904), [#19916](https://github.com/pytorch/executorch/pull/19916)
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
-  - Added Vela COP2 custom-operator payload support ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
+  - Added VELA compiler's COP2 custom-operator payload support to enable direct-IO programs ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
   - Fixed a bug in 7 ExecuTorch graph compiler passes where a status flag was hardcoded to always report "graph modified," causing unnecessary graph rebuilding on every invocation; validated with 15 new regression tests [#19872](https://github.com/pytorch/executorch/pull/19872)
 
