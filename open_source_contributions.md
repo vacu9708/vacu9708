@@ -1,5 +1,6 @@
 ## Open source contributions
 Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
+- Identified and fixed a silent numerical-correctness bug in Arm backend's floating-point rounding logic, eliminating incorrect results on boundary values [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Added support for the tensor flip operation in an Arm ML compiler backend, including a pass that decomposes the multi-axis case into hardware-supported reversals, so models using it run on the accelerator instead of falling back to the CPU [#20592](https://github.com/pytorch/executorch/pull/20592)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Extended an Arm NPU compiler pass to support argmin alongside argmax and added a compile-time overflow guard for index-to-int32 casts to unblock downstream hardware delegation for models that previously failed with a runtime type mismatch [#19918](https://github.com/pytorch/executorch/pull/19918)
