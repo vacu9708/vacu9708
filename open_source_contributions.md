@@ -1,7 +1,5 @@
 ## Open source contributions
 Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI inference framework)
-- Eliminated redundant per-call computation in a core numerical reduction routine, extending an existing performance-optimization pattern to operations that previously lacked it [#21142](https://github.com/pytorch/executorch/pull/21142)
-- Identified and fixed a silent numerical-correctness bug in Arm backend's floating-point rounding logic, eliminating incorrect results on boundary values [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Added support for the tensor flip operation in an Arm ML compiler backend, including a pass that decomposes the multi-axis case into hardware-supported reversals, so models using it run on the accelerator instead of falling back to the CPU [#20592](https://github.com/pytorch/executorch/pull/20592)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Extended an Arm NPU compiler pass to support argmin alongside argmax and added a compile-time overflow guard for index-to-int32 casts to unblock downstream hardware delegation for models that previously failed with a runtime type mismatch [#19918](https://github.com/pytorch/executorch/pull/19918)
@@ -10,6 +8,8 @@ Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Me
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
+  - Eliminated redundant per-call computation in a core numerical reduction routine, extending an existing performance-optimization pattern to operations that previously lacked it [#21142](https://github.com/pytorch/executorch/pull/21142)
+  - Identified and fixed a silent numerical-correctness bug in Arm backend's floating-point rounding logic, eliminating incorrect results on boundary values [#21065](https://github.com/pytorch/executorch/pull/21065)
   - Added VELA compiler's COP2 custom-operator payload support to enable direct-IO programs ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
 
