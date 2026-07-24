@@ -23,4 +23,3 @@ Contributed to [Apache / TVM](https://github.com/apache/tvm) (end-to-end AI comp
 Contributed to [Microsoft / ONNX Runtime](https://github.com/microsoft/onnxruntime) (cross-platform machine-learning accelerator)
 - Identified a spec-compliance defect in ONNX Runtime where an optional-axes edge case raises a runtime error instead of the correct no-op behavior; reported with a minimal reproducible example and ONNX spec analysis [#25095](https://github.com/microsoft/onnxruntime/issues/25095)
 - Under review
-  - Fixed CPU LSTM input validation: added missing weight matrix shape checks, eliminated an out-of-bounds memory read before the rank guard, and refactored validation from the compute backend to each frontend with regression tests [#28653](https://github.com/microsoft/onnxruntime/pull/28653)
