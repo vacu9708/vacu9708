@@ -22,4 +22,3 @@ Contributed to [Apache / TVM](https://github.com/apache/tvm) (end-to-end AI comp
 
 Contributed to [Microsoft / ONNX Runtime](https://github.com/microsoft/onnxruntime) (cross-platform machine-learning accelerator)
 - Identified a spec-compliance defect in ONNX Runtime where an optional-axes edge case raises a runtime error instead of the correct no-op behavior; reported with a minimal reproducible example and ONNX spec analysis [#25095](https://github.com/microsoft/onnxruntime/issues/25095)
-- Under review
