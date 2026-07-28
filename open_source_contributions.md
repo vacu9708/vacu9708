@@ -14,6 +14,7 @@ Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Me
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
 
 Contributed to [Apache / TVM](https://github.com/apache/tvm) (end-to-end AI compiler)
+- Found and fixed an accuracy bug caused by incorrect quantization logic in an Arm machine learning compiler, affecting every model using a common activation function.
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification [#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090)
 - Improved handling of invalid inputs in tensor IR functions to avoid inconsistent outputs across hardware targets [#17985](https://github.com/apache/tvm/pull/17985)
 - Enhanced a tensor operator by introducing configurable modes, restoring test coverage, and resolving crash-prone edge cases [#18061](https://github.com/apache/tvm/pull/18061)
