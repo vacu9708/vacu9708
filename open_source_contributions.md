@@ -9,7 +9,7 @@ Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Me
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
-  - Found and fixed an accuracy bug caused by incorrect quantization logic in an Arm machine learning compiler, affecting every model using a common activation function.
+  - Found and fixed an accuracy bug caused by incorrect quantization logic in an Arm machine learning compiler, affecting every model using a common activation function.[#21437](https://github.com/pytorch/executorch/pull/21437)
   - Identified and fixed a silent numerical-correctness bug in Arm backend's floating-point rounding logic, eliminating incorrect results on boundary values [#21065](https://github.com/pytorch/executorch/pull/21065)
   - Added VELA compiler's COP2 custom-operator payload support to enable direct-IO programs ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
