@@ -11,7 +11,7 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-de
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
   - Fixed a silent numerical-correctness bug in Arm NPU's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
-  - Added VELA compiler's COP2 custom-operator payload support to enable direct-IO programs ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
+  - Added Arm NPU compiler's new payload support to Arm NPU's device driver to replace inefficient memory copy with direct-IO, reducing NPU instruction cycles by 17% for resnet-18 ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
 
 Contributed to [Apache TVM](https://github.com/apache/tvm) (End-to-end AI compiler)
