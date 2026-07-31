@@ -1,5 +1,5 @@
 ## Open source contributions
-Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI deployment framework)
+Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI deployment framework)
 - Fixed a quantization accuracy bug in an Arm NPU compiler by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Optimized amax and amin reductions by adding a fast path for contiguous innermost-dimension inputs, extending existing reduction performance optimizations to additional operators [#21142](https://github.com/pytorch/executorch/pull/21142)
@@ -14,12 +14,12 @@ Contributed to [PyTorch / ExecuTorch](https://github.com/pytorch/executorch) (Me
   - Added VELA compiler's COP2 custom-operator payload support to enable direct-IO programs ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
   - Fixed a silent-hang defect in an Arm NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
 
-Contributed to [Apache / TVM](https://github.com/apache/tvm) (End-to-end AI compiler)
+Contributed to [Apache TVM](https://github.com/apache/tvm) (End-to-end AI compiler)
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification [#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090)
 - Improved handling of invalid inputs in tensor IR functions to avoid inconsistent outputs across hardware targets [#17985](https://github.com/apache/tvm/pull/17985)
 - Enhanced a tensor operator by introducing configurable modes, restoring test coverage, and resolving crash-prone edge cases [#18061](https://github.com/apache/tvm/pull/18061)
 - Fixed installation issues by correcting Python code for automatic library detection [#17808](https://github.com/apache/tvm/pull/17808)
 - Participated in technical discussions with community members [#18128](https://github.com/apache/tvm/pull/18128), [#18018](https://github.com/apache/tvm/issues/18018), [#17914](https://github.com/apache/tvm/issues/17914)
 
-Contributed to [Microsoft / ONNX Runtime](https://github.com/microsoft/onnxruntime) (cross-platform machine-learning accelerator)
+Contributed to [ONNX Runtime](https://github.com/microsoft/onnxruntime) (Microsoft's cross-platform machine-learning accelerator)
 - Identified a spec-compliance defect in ONNX Runtime where an optional-axes edge case raises a runtime error instead of the correct no-op behavior; reported with a minimal reproducible example and ONNX spec analysis [#25095](https://github.com/microsoft/onnxruntime/issues/25095)
