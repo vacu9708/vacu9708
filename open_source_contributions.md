@@ -1,5 +1,6 @@
 ## Open source contributions
 Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI deployment framework)
+- Fixed a silent numerical-correctness bug in Arm Ethos-U NPU's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Fixed a quantization accuracy bug in an Arm Ethos-U NPU compiler by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Optimized amax and amin reductions by adding a fast path for contiguous innermost-dimension inputs, extending existing reduction performance optimizations to additional operators [#21142](https://github.com/pytorch/executorch/pull/21142)
@@ -10,7 +11,6 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-de
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
-  - Fixed a silent numerical-correctness bug in Arm Ethos-U NPU's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
   - Upgraded the Arm Ethos-U NPU device driver to support the new compiler payload (COP2), replacing inefficient memory copies with direct I/O ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
   - Fixed a silent-hang defect in an Arm Ethos-U NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
 
