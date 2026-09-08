@@ -1,6 +1,6 @@
 ## Open source contributions
 Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI deployment framework)
-- Cut the NPU delegate's per-inference CPU time by 53-77% for Arm Ethos-U85 inference on Linux, measured on Arm's Corstone-1000 simulator, by moving the NPU driver's network and buffer setup from every inference to model load. [#22597](https://github.com/pytorch/executorch/pull/22597)
+- Cut the NPU delegate's per-inference CPU time by 53-77% for Arm Ethos-U85 inference on Linux, measured on Arm's Corstone-1000 simulator, by moving the NPU driver's network and buffer setup from every inference to model load. [#22599](https://github.com/pytorch/executorch/pull/22599)
 - Fixed a silent numerical-correctness bug in Arm Ethos-U NPU's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Fixed a quantization accuracy bug in an Arm Ethos-U NPU compiler by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
