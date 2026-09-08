@@ -11,8 +11,7 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-de
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
 - Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
-  - Upgraded the Arm Ethos-U NPU device driver to support the new compiler payload (COP2), replacing inefficient memory copies with direct I/O ([ethos-u-core-driver](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
-  - Fixed a silent-hang defect in an Arm Ethos-U NPU backend by implementing real hardware availability probes for both baremetal and Linux targets, surfacing missing driver initialization as a clear error at model-load time instead of an indefinite hang [#20021](https://github.com/pytorch/executorch/pull/20021)
+  - Upgraded the Arm Ethos-U NPU driver to support the new compiler payload (COP2) ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
 
 Contributed to [Apache TVM](https://github.com/apache/tvm) (End-to-end AI compiler)
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification [#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090)
