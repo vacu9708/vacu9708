@@ -1,5 +1,6 @@
 ## Open source contributions
 Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI deployment framework)
+- Cut the NPU delegate's per-inference CPU time by 53-77% for Arm Ethos-U85 inference on Linux, measured on Arm's Corstone-1000 simulator, by moving the NPU driver's network and buffer setup from every inference to model load. [#22597](https://github.com/pytorch/executorch/pull/22597)
 - Fixed a silent numerical-correctness bug in Arm Ethos-U NPU's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Fixed a quantization accuracy bug in an Arm Ethos-U NPU compiler by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
@@ -9,9 +10,8 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-de
 - Enabled depthwise Conv3D delegation to Arm Ethos-U NPU targets by extending DecomposeGroupedConvPass to decompose rank-5 depthwise inputs, turning a runtime crash into a hardware-accelerated path [#19902](https://github.com/pytorch/executorch/pull/19902)
 - Added bfloat16 support to two Arm Ethos-U NPU targets by tracing the data type flow through the decomposition pipeline and identifying that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it  [#19751](https://github.com/pytorch/executorch/pull/19751)
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
-- Resolved a tutorial export failure by identifying a Python/PyTorch compatibility gap between user environments and CI-tested setups, then upstreaming a setup fix [#19280](https://github.com/pytorch/executorch/pull/19280)
 - Under review
-  - Upgraded the Arm Ethos-U NPU driver to support the new compiler payload (COP2) ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
+  - Upgraded the Arm Ethos-U NPU driver to support a new compiler payload ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
 
 Contributed to [Apache TVM](https://github.com/apache/tvm) (End-to-end AI compiler)
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification [#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090)
