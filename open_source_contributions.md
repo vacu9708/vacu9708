@@ -1,5 +1,5 @@
 ## Open source contributions
-Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-device AI deployment framework)
+Contributed to [ExecuTorch](https://github.com/pytorch/executorch)
 - Optimized Arm Ethos-U85 inference on Linux by initializing NPU driver objects once and reusing them across executions, reducing per-inference CPU time by 53–77% on Arm’s Corstone-1000 A320 FVP [#22599](https://github.com/pytorch/executorch/pull/22599)
 - Fixed a silent numerical-correctness bug in Arm Ethos-U NPU's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Fixed a quantization accuracy bug in an Arm Ethos-U NPU compiler by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
@@ -13,12 +13,12 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch) (Meta's on-de
 - Under review
   - Upgraded the Arm Ethos-U NPU driver to support a new compiler payload ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
 
-Contributed to [Apache TVM](https://github.com/apache/tvm) (End-to-end AI compiler)
+Contributed to [Apache TVM](https://github.com/apache/tvm)
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification [#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090)
 - Improved handling of invalid inputs in tensor IR functions to avoid inconsistent outputs across hardware targets [#17985](https://github.com/apache/tvm/pull/17985)
 - Enhanced a tensor operator by introducing configurable modes, restoring test coverage, and resolving crash-prone edge cases [#18061](https://github.com/apache/tvm/pull/18061)
 - Fixed installation issues by correcting Python code for automatic library detection [#17808](https://github.com/apache/tvm/pull/17808)
 - Participated in technical discussions with community members [#18128](https://github.com/apache/tvm/pull/18128), [#18018](https://github.com/apache/tvm/issues/18018), [#17914](https://github.com/apache/tvm/issues/17914)
 
-Contributed to [ONNX Runtime](https://github.com/microsoft/onnxruntime) (Microsoft's cross-platform machine-learning accelerator)
+Contributed to [ONNX Runtime](https://github.com/microsoft/onnxruntime)
 - Identified a spec-compliance defect in ONNX Runtime where an optional-axes edge case raises a runtime error instead of the correct no-op behavior; reported with a minimal reproducible example and ONNX spec analysis [#25095](https://github.com/microsoft/onnxruntime/issues/25095)
