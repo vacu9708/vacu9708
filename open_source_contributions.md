@@ -11,10 +11,10 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch)
 - Added bfloat16 support to two Arm backend operators by tracing the data type flow through the decomposition pipeline and identifying that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it [#19751](https://github.com/pytorch/executorch/pull/19751)
 - Under review
     - Upgraded the Arm Ethos-U NPU driver to support a new compiler payload ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
-- Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 
 **Executorch core**
 - Optimized amax and amin reductions by adding a fast path for contiguous innermost-dimension inputs, extending existing reduction performance optimizations to additional operators [#21142](https://github.com/pytorch/executorch/pull/21142)
+- Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
 
 Contributed to [Apache TVM](https://github.com/apache/tvm)
