@@ -3,7 +3,7 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch)
 
 **Arm backend**
 - Optimized Arm Ethos-U85 inference on Linux by initializing NPU driver objects once and reusing them across executions, reducing per-inference CPU time by 53–77% on Arm’s Corstone-1000 A320 FVP [#22599](https://github.com/pytorch/executorch/pull/22599)
-- Fixed a silent numerical-correctness bug in the Arm backend's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
+- Fixed a numerical-correctness bug in the Arm backend's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Fixed a quantization accuracy bug in the Arm backend quantizer by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
 - Added support for the tensor flip operation in the Arm backend, including a pass that decomposes the multi-axis case into hardware-supported reversals, so models using it run on the accelerator instead of falling back to the CPU [#20592](https://github.com/pytorch/executorch/pull/20592)
 - Extended an Arm backend compiler pass to support argmin alongside argmax and added a compile-time overflow guard for index-to-int32 casts to unblock downstream hardware delegation for models that previously failed with a runtime type mismatch [#19918](https://github.com/pytorch/executorch/pull/19918)
