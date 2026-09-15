@@ -1,6 +1,4 @@
-## Open source contributions
-Contributed to [ExecuTorch](https://github.com/pytorch/executorch)
-
+## [ExecuTorch](https://github.com/pytorch/executorch)
 **Arm backend**
 - Optimized Arm Ethos-U85 inference on Linux by initializing NPU driver objects once and reusing them across executions, reducing per-inference CPU time by 53–77% on Arm’s Corstone-1000 A320 FVP [#22599](https://github.com/pytorch/executorch/pull/22599)
 - Fixed a numerical-correctness bug in the Arm backend's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
@@ -17,7 +15,7 @@ Contributed to [ExecuTorch](https://github.com/pytorch/executorch)
 - Fixed a numerical precision bug in softmax, log_softmax, mean, and sum where BFloat16 accumulation caused significant precision loss for large input sizes by switching to float32 accumulation [#20090](https://github.com/pytorch/executorch/pull/20090)
 - Hardened runtime validation against malformed inputs by adding missing null-field and tensor safety checks, turning reachable crashes into validation errors [#19878](https://github.com/pytorch/executorch/pull/19878), [#19916](https://github.com/pytorch/executorch/pull/19916)
 
-Contributed to [Apache TVM](https://github.com/apache/tvm)
+## [Apache TVM](https://github.com/apache/tvm)
 - Traced and fixed bugs in tensor operator implementations to ensure compliance with the ONNX specification [#17980](https://github.com/apache/tvm/pull/17980), [#18072](https://github.com/apache/tvm/pull/18072), [#18090](https://github.com/apache/tvm/pull/18090)
 - Improved handling of invalid inputs in tensor IR functions to avoid inconsistent outputs across hardware targets [#17985](https://github.com/apache/tvm/pull/17985)
 - Enhanced a tensor operator by introducing configurable modes, restoring test coverage, and resolving crash-prone edge cases [#18061](https://github.com/apache/tvm/pull/18061)
