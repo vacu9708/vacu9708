@@ -1,5 +1,6 @@
 ## [ExecuTorch](https://github.com/pytorch/executorch)
-**Arm backend**
+**ExecuTorch Arm backend / Ethos-U NPU**
+- Fixed silently incorrect outputs for multi-input/output NPU models on Linux, including Arm's Silero VAD example, by matching I/O buffer placement to compiler-assigned offsets [#23987](https://github.com/pytorch/executorch/pull/23987)
 - Optimized Arm Ethos-U85 inference on Linux by initializing NPU driver objects once and reusing them across executions, reducing per-inference CPU time by 53–77% on Arm’s Corstone-1000 A320 FVP [#22599](https://github.com/pytorch/executorch/pull/22599)
 - Fixed a numerical-correctness bug in the Arm backend's FP rounding logic by correcting a round-half-away-from-zero decomposition to match PyTorch's round-half-to-even semantics [#21065](https://github.com/pytorch/executorch/pull/21065)
 - Fixed a quantization accuracy bug in the Arm backend quantizer by giving SiLU outputs independent quantization scales, improving quantization resolution and uncovering a latent test-pipeline bug [#21437](https://github.com/pytorch/executorch/pull/21437)
