@@ -9,7 +9,7 @@
 - Added depthwise Conv3D delegation to the Arm TOSA by extending DecomposeGroupedConvPass to decompose rank-5 depthwise inputs, turning a runtime crash into a supported delegated path [#19902](https://github.com/pytorch/executorch/pull/19902)
 - Added bfloat16 support to two Arm backend operators by tracing the data type flow through the decomposition pipeline and identifying that the partitioning layer incorrectly rejected BF16 despite the underlying hardware instruction already accepting it [#19751](https://github.com/pytorch/executorch/pull/19751)
 - Under review
-    - Upgraded the Arm Ethos-U NPU driver to support a new compiler payload ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3))
+    - Added support for the newer output format of Arm's Vela NPU compiler to the Ethos-U driver for microcontrollers, covered by 41 tests across Ethos-U55, U65 and U85 ([ethos-u-core-driver!3](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-driver/-/merge_requests/3), [ethos-u-core-platform!7](https://gitlab.arm.com/artificial-intelligence/ethos-u/ethos-u-core-platform/-/merge_requests/7))
 
 **Executorch core**
 - Optimized amax and amin reductions by adding a fast path for contiguous innermost-dimension inputs, extending existing reduction performance optimizations to additional operators [#21142](https://github.com/pytorch/executorch/pull/21142)
